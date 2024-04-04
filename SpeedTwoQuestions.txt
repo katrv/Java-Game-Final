@@ -1,0 +1,122 @@
+Question 1: At a car park there are 100 vehicles: 60 cars, 30 vans, and the remainder trucks. If every vehicle is equally likely to leave, what is the probability of a van leaving first?
+Answer: 3/10
+Answer: 1/10
+Answer: 30/10
+Answer: 6/10
+Hint: P(A) is equal to the # of ways event A can occur divided by the total # of possible outcomes. In this case, the event can occur in 30 ways because of the 30 vans.
+Question 2: At a car park there are 100 vehicles: 60 cars, 30 vans, and the remainder trucks. If every vehicle is equally likely to leave, what is the probability of a car leaving first?
+Answer: 3/5
+Answer: 1/10
+Answer: 30/10
+Answer: 6/10
+Hint: P(A) is equal to the # of ways event A can occur divided by the total # of possible outcomes. In this case, the event can occur in 60 ways because of the 60 cars.
+Question 3: Using a standard deck of 52 cards, what is the probability of choosing a non-face card?
+Answer: 40/52
+Answer: 10/11
+Answer: 23/52
+Answer: 49/52
+Hint: You can use the complement rule. P(Ā) = 1-P(A)
+Question 4: In a standard deck of cards, two cards are drawn without replacement. What is the probability that both cards are aces?
+Answer: 1/221
+Answer: 3/221
+Answer: 5/221
+Answer: 7/221
+Hint: After the first ace is drawn, there are 51 cards remaining in the deck, and 3 aces left.
+Question 5: You roll two fair six-sided dice. What is the probability that the sum of the numbers you rolled is 7?
+Answer: 1/6
+Answer: 2/3
+Answer: 1/4
+Answer: 1/12
+Hint: To calculate, you need to determine the # of favorable outcomes and divide it by the total # of possible outcomes. Each die has 6 different values, so there are 6*6 = 36 possible outcomes.
+Question 6: A bag contains 4 red marbles and 6  blue marbles. Three marbles are drawn randomly with replacement. What is the probability that all three marbles are red?
+Answer: 0.064
+Answer: 0.023
+Answer: 0.075
+Answer: 0.084
+Hint: Since there is replacement, you can multiply the probabilities for drawing each marble together and find the answer.
+Question 7: A box contains 5 red balls, 3 green balls, and 2 blue balls. If 2 balls are drawn without replacement, what is the probability that both balls are green?
+Answer: 1/15
+Answer: 2/45
+Answer: 1/3
+Answer: 2/15
+Hint: To calculate the probability, you need to consider the # of ways you can choose 2 green balls out of 3, divided by the total # of ways to choose 2 balls out of the total 10 balls.
+Question 8: There is a standard deck of 52 playing cards. Two cards are drawn without replacement. What is the probability that the first card is a heard and the second card is a spade?
+Answer: 169/2652
+Answer: 169/2704
+Answer: 1/2652
+Answer: 1/2704
+Hint: After the first card is drawn, there are 51 cards remaining in the deck, and 13 spades left. You can use this to find the probability of both events occuring and multiply the probabilities of both events together.
+Question 9: A fair six-sided dice is rolled twice. What is the probability that the sum of the numbers rolled is even?
+Answer: 1/2
+Answer: 3/4
+Answer: 1/5
+Answer: 3/7
+Hint: Each die can take on 6 different values, so there are 6 x 6 = 36 possible outcomes.
+Question 10: A jar contains 4 yellow candies, 3 red candies, and 5 green candies. If 3 candies are drawn without replacement, what is the probability that exactly 2 of them are yellow?
+Answer: 36/220
+Answer: 24/220
+Answer: 18/220
+Answer: 30/220
+Hint: To calculate the probability, you need to consider the # of ways you can choose 2 yellow candies out of 4, 1 candy of any other color out of 6, and divide it by the total # of ways to choose 3 candies out of 12 total candies.
+Question 11: A bag contains 10 red marbles and 6 blue marbles. Three marbles are drawn at random without replacement. What is the probability that at least one marble is red?
+Answer: 1/28
+Answer: 2/28
+Answer: 16/560
+Answer: 13/560
+Hint: To calculate this probability, we can consider the complementary event, which is the probability of drawing no red marbles (drawing all blue marbles) and subtract it from 1.
+Question 12: A bag of contains 8 red marbles and 5 blue marbles. Two marbles are drawn at random without replacement. What is the probability that the firt marble is red and the second marble is blue?
+Answer: 40/78
+Ansewr: 23/78
+Answer: 19/78
+Answer: 45/78
+Hint: To calculate this probability, we need to consider the number of ways we can choose 1 red marble out of 8 and 1 blue marble out of 5, divided by the total number of ways to choose 2 marbles out of the total 13 marbles.
+Question 13: A box contains 3 green balls, 4 red balls, and 5 blue balls. If 3 balls are drawn without replacement, what is the probability that all three balls are the same color?
+Answer: 15/220
+Answer: 13/220
+Answer: 4/15
+Answer: 3/15
+Hint: To calculate this probability, we need to consider the number of ways we can choose 3 balls of the same color (either green, red, or blue), divided by the total number of ways to choose 3 balls out of the total 12 balls.
+Question 14: A box has 10 white socks and 6 black socks. Four socks are drawn at random without replacement. What is the probability that exactly 2 socks are white adn 2 socks are black?
+Answer: 675/1280
+Answer: 734/1280
+Answer: 982/1280
+Answer: 123/1280
+Hint: To calculate this probability, we need to consider the number of ways we can choose 2 white socks out of 10, 2 black socks out of 6, divided by the total number of ways to choose 4 socks out of the total 16 socks.
+Question 15: In a game, two fair six-sided dice are rolled. What is the probability that the sum of the numbers rolled is divisible by 3?
+Answer: 1/3
+Answer: 2/3
+Answer: 1/4
+Answer: 1/2
+Hint: To calculate this probability, we need to consider the number of ways we can obtain a sum that is divisible by 3. Each die can take on 6 different values, so there are 6 x 6 = 36 possible outcomes.
+Question 16: A bag contains 5 red balls, 4 green balls, and 3 blue balls. Two balls are drawn at random without replacement. What is the probability that both balls are green?
+Answer: 6/66
+Answer: 6/67
+Answer: 5/67
+Answer: 5/66
+Hint: To calculate this probability, we need to consider the number of ways we can choose 2 green balls out of 4, divided by the total number of ways to choose 2 balls out of the total 12 balls.
+Question 17: A box contains 6 white socks, 4 black socks, and 2 gray socks. Three socks are drawn at random without replacement. What is the probability that all three socks are the same color?
+Answer: 6/55
+Answer: 3/55
+Answer: 12/55
+Answer: 17/55
+Hint: To calculate this probability, we need to consider the number of ways we can choose 3 socks of the same color (either white, black, or gray), divided by the total number of ways to choose 3 socks out of the total 12 socks.
+Question 18: A deck of playing cards is shuffled thoroughly. Three cards are drawn in succession without replacement. What is the probability that the first two cards are hearts and the third card is a diamond?
+Answer: 1014/22100
+Answer: 1019/22100
+Answer: 1013/22100
+Answer: 123/22100
+Hint: To calculate this probability, we need to consider the number of ways we can choose 2 hearts out of 13 and 1 diamond out of 13 (after the two hearts have been removed), divided by the total number of ways to choose 3 cards out of the total 52 cards.
+Question 19: A bag contains 8 red marbles, 6 blue marbles, and 4 yellow marbles. Four marbles are drawn at random without replacement. What is the probability that at least two marbles are blue?
+Answer: 314/3060
+Answer: 123/3060
+Answer: 317/3060
+Answer: 152/3060
+Hint: To calculate this probability, we need to consider the number of ways we can choose 2 blue marbles out of 6, 3 blue marbles out of 6, or 4 blue marbles out of 6, and the corresponding number of ways to choose the remaining marbles from the remaining colors, divided by the total number of ways to choose 4 marbles out of the total 18 marbles.
+Question 20: In a game, two fair six-sided dice are rolled. What is the probability that the sum of the numbers rolled is a prime number?
+Answer: 5/12
+Answer: 1/3
+Answer: 1/6
+Answer: 1/9
+Hint: To calculate this probability, we need to consider the number of ways we can obtain a sum that is a prime number.
+
+

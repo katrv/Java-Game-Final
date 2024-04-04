@@ -1,0 +1,90 @@
+Question 1: A box contains 6 red balls, 4 green balls, and 2 blue balls. Two balls are drawn at random with replacement. What is the probability that both balls are red?
+Answer: 25%
+Answer: 12%
+Answer: 19%
+Answer: 35%
+Hint: When drawing with replacement, the probability of selecting a specific ball remains the same for each draw. 
+Question 2: A jar contains 20 candies: 8 are chocolate, 6 are caramel, and 6 are fruit-flavored. Two candies are drawn at random without replacement. What is the probability of drawing one chocolate and one caramel candy?
+Answer: 48/190
+Answer: 12/190
+Answer: 16/190
+Answer: 47/190
+Hint: To calculate this probability, we need to count the number of ways we can choose 1 chocolate candy out of 8 and 1 caramel candy out of 6, and divide it by the total number of ways to choose 2 candies out of the total 20 candies.
+Question 3: In a deck of 52 playing cards, four cards are drawn without replacement. What is the probability that all four cards are aces?
+Answer: 1/270,725
+Answer: 5/270,725
+Answer: 8/270,725
+Answer: 17/270,725
+Hint: To calculate this probability, we need to count the number of ways we can choose 4 aces out of the 4 aces in the deck, divided by the total number of ways to choose 4 cards out of the total 52 cards.
+Question 4: A bag contains 10 red balls, 8 green balls, and 6 blue balls. Three balls are drawn at random without replacement. What is the probability that at least two balls are of the same color?
+Answer: 1544/2024
+Answer: 1514/2024
+Answer: 1554/2024
+Answer: 1524/2024
+Hint: To calculate this probability, we need to count the number of ways we can choose at least two balls of the same color and divide it by the total number of ways to choose 3 balls out of the total 24 balls.
+Question 5: A box contains 5 white marbles, 4 black marbles, and 3 yellow marbles. Two marbles are drawn at random without replacement. What is the probability that the first marble drawn is black and the second marble drawn is white?
+Answer: 20/66
+Answer: 12/66
+Answer: 15/66
+Answer: 18/66
+Hint: To calculate this probability, we need to count the number of ways we can choose 1 black marble out of 4, followed by choosing 1 white marble out of 5, and divide it by the total number of ways to choose 2 marbles out of the total 12 marbles.
+Question 6: A fair six-sided die is rolled four times. What is the probability of rolling at least two odd numbers?
+Answer: 15/1296
+Answer: 125/1296
+Answer: 178/1296
+Answer: 1298/1296
+Hint: To calculate this probability, we need to count the number of favorable outcomes (rolling at least two odd numbers) and divide it by the total number of possible outcomes.
+Question 7: A jar contains 15 red candies, 10 green candies, and 5 blue candies. Two candies are drawn at random without replacement. What is the probability that both candies are the same color, given that the first candy drawn is red?
+Answer: 14/29
+Answer: 13/29
+Answer: 12/29
+Answer: 11/29
+Hint: Since we know the first candy drawn is red, the second candy must also be red for both candies to be the same color.
+Question 8: A bag contains 5 red balls, 3 green balls, and 2 blue balls. Three balls are drawn at random without replacement. What is the probability that exactly two balls are red?
+Answer: 5/12
+Answer: 4/12
+Answer: 3/12
+Answer: 2/12
+Hint: To calculate this probability, we need to count the number of ways we can choose 2 red balls out of the 5 red balls, and 1 ball of any color out of the remaining balls, and divide it by the total number of ways to choose 3 balls out of the total 10 balls.
+Question 9: In a game, a fair six-sided die is rolled six times. What is the probability of rolling exactly four even numbers?
+Answer: 15/46656
+Answer: 17/46656
+Answer: 1297/46656
+Answer: 123/46656
+Hint: To calculate this probability, we need to count the number of ways we can roll exactly four even numbers (2, 4, or 6) out of the six rolls, and divide it by the total number of possible outcomes for each roll, raised to the power of six.
+Question 10: A box contains 12 marbles: 4 are red, 4 are green, and 4 are blue. Four marbles are drawn at random without replacement. What is the probability that all four marbles are of different colors?
+Answer: 64/495
+Answer: 12/495
+Answer: 124/495
+Answer: 1243/495
+Hint: To calculate this probability, we need to count the number of ways we can choose one marble of each color (red, green, and blue) out of their respective colors, and divide it by the total number of ways to choose 4 marbles out of the total 12 marbles.
+Question 11: A deck of 52 playing cards is shuffled and one card is drawn. Without replacement, a second card is drawn. What is the probability that the second card is higher in value than the first card?
+Answer: 41.18%
+Answer: 12.18%
+Answer: 19.29%
+Answer: 18.26%
+Hint: The probability depends on the value of the first card drawn. There are 52 cards in the deck, so each card has a 1/52 chance of being drawn first.
+Question 12: A jar contains 10 red candies, 8 green candies, and 6 blue candies. Two candies are drawn at random without replacement. What is the probability that both candies are the same color?
+Answer: 136/276
+Answer: 123/276
+Answer: 112/276
+Answer: 128/276
+Hint: To calculate this probability, we need to consider two cases: both candies are red or both candies are not red (green or blue).
+Question 13: A jar contains 30 marbles, 10 of which are red, 8 are blue, and 12 are green. Three marbles are drawn at random without replacement. What is the probability that exactly two of the marbles are red?
+Answer: 900/4060
+Answer: 198/4060
+Answer: 123/4060
+Answer: 906/4060
+Hint: To calculate this probability, we need to count the number of ways we can choose 2 red marbles out of 10, 1 non-red marble out of 20, and divide it by the total number of ways to choose 3 marbles out of the total 30 marbles.
+Question 14: A box contains 12 numbered balls: 4 balls are numbered 1, 4 balls are numbered 2, and 4 balls are numbered 3. Two balls are drawn at random without replacement. What is the probability that both balls have the same number?
+Answer: 18/66
+Answer: 12/66
+Answer: 11/66
+Answer: 5/66
+Hint: To calculate this probability, we need to count the number of ways we can choose 2 balls with the same number (either 1, 2, or 3) out of the 4 balls with that number, for each number. Then, we divide it by the total number of ways to choose 2 balls out of the total 12 balls.
+Question 15: A box contains 8 red balls, 5 green balls, and 3 blue balls. Three balls are drawn at random without replacement. What is the probability that all three balls are the same color?
+Answer: 67/560
+Answer: 123/560
+Answer: 12/560
+Answer: 19/560
+Hint: To calculate this probability, we need to count the number of ways we can choose 3 balls of the same color (either red, green, or blue) out of the respective colors, and divide it by the total number of ways to choose 3 balls out of the total 16 balls.

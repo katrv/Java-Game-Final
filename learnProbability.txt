@@ -1,0 +1,25 @@
+Experiment: Process that can be repeated and has a set of possible outcomes (sample space)
+
+Outcome: Result of an experiment
+
+Event: One or more outcomes of an experiment
+
+Probability: Measure of how likely an event is
+
+Probability of an Event: P(A) is equal to the # of ways event A can occur divided by the total # of possible outcomes
+
+Intersection: Denoted by the symbol ∩, intersection refers to the overlap of two or more events. You can read P(A ∩ B) as the probability of A and B.
+
+Union:  Denoted by the symbol ∪, union refers to all the outcomes of events. P(A ∪ B) can be read as the probability of A or B.
+
+Conditional Probability: This is the probability of an event A occuring knowing that B has already occured. It is written as P(A | B). This can be found by dividing P(A ∩ B)/P(B).
+
+Independent Events: When one event occuring does not affect the probability of another event occuring. P(A ∩ B) = P(A) x P(B) 
+
+Dependent Events: When one event occuring does affect the probability of another event occuring. P(A ∩ B) = P(A) x P(B | A) 
+
+Mutually Exclusive Events: Two or more events that can't happen at the same time. For example, getting a heads and tails on a coin toss are mutually exclusive. P(A or B) = P(A) + P(B)
+
+Sample Space: Set of all possible outcomes from an experiment. For example, the sample space for when a coin is tossed are heads and tails, written as {heads, tails}
+
+Complement of an Event: The complement of an event A is the set of outcomes that are not included in the outcomes for event A. It is denoted as Ā, read as A bar. P(Ā) = 1-P(A)
